@@ -14,7 +14,7 @@
 
 
 <h2 align="center">
-    𖢵 ᴀʅσηҽ χ мυѕι¢ 𖢵
+    𖢵 Jani χ мυѕι¢ 𖢵
 
 ★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 </h2>
@@ -23,7 +23,7 @@
   <img src="https://te.legra.ph/file/265e29bc52c7a32b67081.jpg">
 </p>
 
-**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝐀ʟᴏɴᴇ 𝐌ᴜsɪᴄ](https://t.me/AloneXMusicBot)**
+**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [Jani Music](https://t.me/Jani_Music_Robot)**
 
 
 
@@ -99,10 +99,10 @@
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/AlonesHeaven"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/Jani_Owner"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/TeamAloneOps"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/Jani_RP"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
