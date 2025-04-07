@@ -174,7 +174,7 @@ queue_6 : "<b>🕚 ᴅᴜʀᴀᴛɪᴏɴ :</b> ᴜɴᴋɴᴏᴡɴ ᴅᴜʀᴀᴛ
 queue_7 : "\nᴄʟɪᴄᴋ ᴏɴ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴡʜᴏʟᴇ ǫᴜᴇᴜᴇᴅ ʟɪsᴛ."
 queue_8 : "<b>{0} ᴘʟᴀʏᴇʀ</b>\n\n🎄 <b>sᴛʀᴇᴀᴍɪɴɢ :</b> {1}\n\n🔗 <b>sᴛʀᴇᴀᴍ ᴛʏᴘᴇ :</b> {2}\n🥀 <b>ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ :</b> {3}\n{4}"
 
-stream_1 : "<b><blockquote>➧ 𝗝ąñı | ση sᴛʀєᴧϻɪηɢ ⏤͟͞●</b>\n\n<b>➣ Tɪᴛʟᴇ :</b> <a href={0}>{1}</a>\n<b>➦ Dᴜʀᴀᴛɪᴏɴ :</b> {2} ᴍɪɴᴜᴛᴇs\n<b>➦ Rᴇǫᴜᴇsᴛᴇᴅ ʙʏ :</b> {3}</blockquote>\n\n||<b><blockquote> ⚡ 𝐌ᴧᴅє 𝐁ʏ➛ <a href=\"https://t.me/Jani_Owner\"> ꯭꯭𓆰꯭꯭♔꯭꯭ ꯭𝗝꯭ᴀ꯭፝֟͠ɴ꯭ɪ꯭꯭ ꯭꯭꯭꯭꯭꯭𝆺꯭𝅥𔘓༌꯭</a></blockquote></b>||"
+stream_1 : "<b><blockquote>➧ 𝗝ąñı | ση sᴛʀєᴧϻɪηɢ ⏤͟͞●</blockquote></b>\n\n<b><blockquote>❍ ᴛɪᴛʟє ➥</b> <a href={0}>{1}</a> \n<b>❍ ᴛɪϻє ➥</b> {2} ϻɪηυᴛєs \n<b>❍ ʙʏ ➥</b> {3}<b></blockquote>\n<b><blockquote> ⚡ 𝐌ᴧᴅє 𝐁ʏ➛ [꯭𓆰꯭꯭♔꯭꯭ ꯭𝗝꯭ᴀ꯭፝֟‌ɴ꯭ɪ꯭꯭ ꯭꯭꯭꯭꯭꯭𝆺꯭𝅥𔘓༌꯭꯭](https://t.me/Jani_Owner)</b></blockquote>"
 stream_2 : "๏ <b>ση sᴛʀєᴧϻɪηɢ |</b>\n\n<b>‣ Sᴛʀᴇᴀᴍ ᴛʏᴘᴇ :</b> ʟɪᴠᴇ sᴛʀᴇᴀᴍ [ᴜʀʟ]\n<b>‣ Rᴇǫᴜᴇsᴛᴇᴅ ʙʏ :</b> {0}\n\ ⚡ 𝐌ᴧᴅє 𝐁ʏ➛ <a href=\"https://t.me/Jani_Owner\"> ꯭꯭𓆰꯭꯭♔꯭꯭ ꯭𝗝꯭ᴀ꯭፝֟͠ɴ꯭ɪ꯭꯭ ꯭꯭꯭꯭꯭꯭𝆺꯭𝅥𔘓༌꯭</a>"
 
 
