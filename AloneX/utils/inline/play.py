@@ -34,25 +34,25 @@ def stream_markup_timer(_, chat_id, played, dur):
     percentage = (played_sec / duration_sec) * 100
     umm = math.floor(percentage)
     if 0 < umm <= 10:
-        bar = "♡╌╌╌╌╌╌╌╌"
+        bar = "✄·─·─·─·─·─·─·─·─·─"
     elif 10 < umm < 20:
-        bar = "╌♡╌╌╌╌╌╌╌"
+        bar = "-ˋˏ✄·─·─·─·─·─·─·─·─"
     elif 20 <= umm < 30:
-        bar = "╌╌♡╌╌╌╌╌╌"
+        bar = "-ˋˏ-ˋˏ✄·─·─·─·─·─·─·─"
     elif 30 <= umm < 40:
-        bar = "╌╌╌♡╌╌╌╌╌"
+        bar = "-ˋˏ-ˋˏ-ˋˏ✄·─·─·─·─·─·─"
     elif 40 <= umm < 50:
-        bar = "╌╌╌╌♡╌╌╌╌"
+        bar = "-ˋˏ-ˋˏ-ˋˏ-ˋˏ✄·─·─·─·─·─"
     elif 50 <= umm < 60:
-        bar = "╌╌╌╌╌♡╌╌╌"
+        bar = "-ˋˏ-ˋˏ-ˋˏ-ˋˏ-ˋˏ✄·─·─·─·─"
     elif 60 <= umm < 70:
-        bar = "╌╌╌╌╌╌♡╌╌"
+        bar = "-ˋˏ-ˋˏ-ˋˏ-ˋˏ-ˋˏ-ˋˏ✄·─·─·─"
     elif 70 <= umm < 80:
-        bar = "╌╌╌╌╌╌╌♡╌"
+        bar = "-ˋˏ-ˋˏ-ˋˏ-ˋˏ-ˋˏ-ˋˏ-ˋˏ✄·─·─"
     elif 80 <= umm < 95:
-        bar = "╌╌╌╌╌╌╌╌♡╌"
+        bar = "-ˋˏ-ˋˏ-ˋˏ-ˋˏ-ˋˏ-ˋˏ-ˋˏ-ˋˏ✄·─"
     else:
-        bar = "╌╌╌╌╌╌╌╌╌♡"
+        bar = "-ˋˏ-ˋˏ-ˋˏ-ˋˏ-ˋˏ-ˋˏ-ˋˏ-ˋˏ-ˋˏ✄·"
     buttons = [
         [
             InlineKeyboardButton(
@@ -72,14 +72,14 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="• 𝐎ᴡɴᴇʀ •", user_id=config.OWNER_ID,
+                text="{🇮🇳}𝗢𝘄𝗻𝗲𝗿", user_id=config.OWNER_ID,
             ),
             InlineKeyboardButton(
-                text="• 𝐒ᴜᴘᴘᴏʀᴛ •", url=config.SUPPORT_CHAT
+                text="𝗨𝗽𝗱𝗮𝘁𝗲𝘀", url=config.SUPPORT_CHAT
             ),
         ],
         [
-            InlineKeyboardButton("꯭꯭꯭꯭♔꯭꯭𝗝꯭𝗮꯭𝗻꯭𝗶𔘓꯭𝗠꯭𝘂꯭𝘀꯭𝗶꯭𝗰꯭", url=f"https://t.me/Jani_Music_Robot?start=help"),
+            InlineKeyboardButton("꯭꯭꯭꯭꯭➧꯭ 𝗝꯭𝗮꯭𝗻꯭𝗶 ꯭𔘓꯭꯭ 𝗠꯭𝘂꯭𝘀꯭𝗶꯭𝗰꯭꯭꯭", url=f"https://t.me/Jani_Music_Robot?start=help"),
         ],
         [InlineKeyboardButton(text="[✗]𝐂ʟᴏsᴇ[✗]", callback_data="close")],
     ]
@@ -97,14 +97,14 @@ def stream_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="• 𝐎ᴡɴᴇʀ •", user_id=config.OWNER_ID,
+                text="{🇮🇳}𝗢𝘄𝗻𝗲𝗿", user_id=config.OWNER_ID,
             ),
             InlineKeyboardButton(
-                text="• 𝐒ᴜᴘᴘᴏʀᴛ •", url=config.SUPPORT_CHAT
+                text="𝗨𝗽𝗱𝗮𝘁𝗲𝘀", url=config.SUPPORT_CHAT
             ),
         ],
         [
-            InlineKeyboardButton("꯭꯭꯭꯭♔꯭꯭𝗝꯭𝗮꯭𝗻꯭𝗶𔘓꯭𝗠꯭𝘂꯭𝘀꯭𝗶꯭𝗰꯭", url=f"https://t.me/Jani_Music_Robot?start=help"),
+            InlineKeyboardButton("꯭➧꯭ 𝗝꯭𝗮꯭𝗻꯭𝗶 ꯭𔘓꯭꯭ 𝗠꯭𝘂꯭𝘀꯭𝗶꯭𝗰꯭꯭꯭", url=f"https://t.me/Jani_Music_Robot?start=help"),
         ],
         [InlineKeyboardButton(text="[✗]𝐂ʟᴏsᴇ[✗]", callback_data="close")],
     ]
