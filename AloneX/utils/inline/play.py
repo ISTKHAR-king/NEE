@@ -78,7 +78,10 @@ def stream_markup_timer(_, chat_id, played, dur):
                 text="• 𝐒ᴜᴘᴘᴏʀᴛ •", url=config.SUPPORT_CHAT
             ),
         ],
-        [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
+        [
+            InlineKeyboardButton("꯭꯭꯭꯭♔꯭꯭𝗝꯭𝗮꯭𝗻꯭𝗶𔘓꯭𝗠꯭𝘂꯭𝘀꯭𝗶꯭𝗰꯭", url=f"https://t.me/Jani_Music_Robot?start=help"),
+        ],
+        [InlineKeyboardButton(text="[✗]𝐂ʟᴏsᴇ[✗]", callback_data="close")],
     ]
     return buttons
 
@@ -100,10 +103,12 @@ def stream_markup(_, chat_id):
                 text="• 𝐒ᴜᴘᴘᴏʀᴛ •", url=config.SUPPORT_CHAT
             ),
         ],
-        [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
+        [
+            InlineKeyboardButton("꯭꯭꯭꯭♔꯭꯭𝗝꯭𝗮꯭𝗻꯭𝗶𔘓꯭𝗠꯭𝘂꯭𝘀꯭𝗶꯭𝗰꯭", url=f"https://t.me/Jani_Music_Robot?start=help"),
+        ],
+        [InlineKeyboardButton(text="[✗]𝐂ʟᴏsᴇ[✗]", callback_data="close")],
     ]
     return buttons
-
 
 def playlist_markup(_, videoid, user_id, ptype, channel, fplay):
     buttons = [
